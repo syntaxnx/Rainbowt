@@ -26,6 +26,8 @@ com um estilo diferente e mais elegante.
 
 ----------------------//
 
+# Author
+
 gitHub: https://github.com/syntaxnx
 
 email: development@syntaxx.com
