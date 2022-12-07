@@ -32,7 +32,7 @@ gitHub: https://github.com/syntaxnx
 
 email: development@syntaxx.com
 
-Script: SNX-BOX
+Script: Rainbowt
 
 Codename: Syntax.
 
