@@ -98,7 +98,7 @@ clear
 #Script starts
 #cd $HOME
 #cd Termux-Mod
-echo Script by:- P4rad0x.px
+echo Script by:- SYNTAX
 #Uninstall
 if [ -e ".user.cfg" ]
 then
