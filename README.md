@@ -6,7 +6,7 @@ com um estilo diferente e mais elegante.
 
 ----------------------//
 
-#Instalação 
+ #Instalação 
 
 ➛ apt update
 
@@ -25,8 +25,6 @@ com um estilo diferente e mais elegante.
 ➛ ./setup.sh ou sh setup.sh
 
 ----------------------//
-
-#BY SYNTAX
 
 gitHub: https://github.com/syntaxnx
 
