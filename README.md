@@ -6,7 +6,7 @@ com um estilo diferente e mais elegante.
 
 ----------------------//
 
- #Instalação 
+ # Instalação 
 
 ➛ apt update
 
